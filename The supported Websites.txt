@@ -1,0 +1,36 @@
+﻿
+
+youtube-dl is a Python based small command-line tool that allows to download videos from :
+1. YouTube.com
+2. Dailymotion
+3. Google Video
+4. Photobucket
+5. Facebook
+6. Yahoo
+7. Metacafe
+8. Depositfiles 
+
+
+It written in pygtk and requires Python interpreter to run this program, it’s not platform restricted. It should run on any Unix, Windows or in Mac OS X based systems.
+
+
+
+Recently, youtube-dl added video download support for 17 new websites : 
+
+1.  brightcove.com
+2.  auengine.com
+3.  RingTV
+4.  instagram.com
+5.  Jukebox
+6.  3sat
+7.  CSpan
+8.  Statigr.am
+9.  traileraddict.com
+10. hotnewhiphop.com
+11. wat.tv
+12. tu.tv
+13. gamespot.com
+14. tudou.com
+15. Wimp.com
+16. archive.org 
+17. break.com
