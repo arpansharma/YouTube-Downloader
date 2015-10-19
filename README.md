@@ -8,9 +8,9 @@ The youtube-dl program can be installed by enabling epel repository under your s
 
 If you don’t wish to add any third party repository, you can still install it right away using curl or wget command as shown.
 
-# curl https://yt-dl.org/latest/youtube-dl -o /usr/local/bin/youtube-dl
+curl https://yt-dl.org/latest/youtube-dl -o /usr/local/bin/youtube-dl
 OR
-# wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
+wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
 
 Your system must have curl or wget packages installed to fetch the recent version youtube-dl file. If you don’t have them, you may yum to get it.
 
